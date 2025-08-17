@@ -160,15 +160,6 @@ Your bot listens to multiple Discord events to provide automation and logging:
 
 ---
 
-## 📌 Roadmap
-
-* [ ] Add music system.
-* [ ] Add reaction roles.
-* [ ] Expand moderation (softban, tempban, etc.).
-* [ ] Add web dashboard for settings.
-
----
-
 ## 📜 License
 
 MIT License © 2025 Rana Development
